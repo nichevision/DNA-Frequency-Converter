@@ -1,0 +1,29 @@
+    Bin    Range (alleles)     Count      Fraction
+     1        5-    5            0        0.0000
+     2        6-    6            0        0.0000
+     3        7-    7            0        0.0000
+     4        8-    8            0        0.0000
+     5        9-    9            0        0.0000
+     6       10-   10            6        0.0291
+     7       11-   11            0        0.0000
+     8       12-   12           19        0.0922
+     9       13-   13           94        0.4563
+    10       14-   14           69        0.3350
+    11       15-   15           18        0.0874
+    12       16-   16            0        0.0000
+    13       17-   17            0        0.0000
+    14       18-   18            0        0.0000
+    15       19-   19            0        0.0000 
+                             --------    --------
+             Totals            206        1.0000
+             Minimum allele frequency = 0.0243
+
+             Null allele frequency = 0.0243
+
+
+Min Allele Frequency and Null Allele Frequency calculated as 5/2N where N = 103
+
+Note:  Samples obtained from DPS Scientific Crime Detection Laboratory. 
+
+Processed by DNA Support Unit, FBI Laboratory. 
+
